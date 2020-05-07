@@ -4,9 +4,9 @@ social toolkit for Ethical hacking v10
 
 Copyright 2020 The Social-Engineer Toolkit (SET)
 
-Written by: David Kennedy (ReL1K) @HackingDave
+Written by: Bonachy laurielb@Hack_me
 
-Company: [TrustedSec](https://www.trustedsec.com)
+Company: [Loona inc.](https://www.loona-inc.com)
 
 DISCLAIMER: This is *only* for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes, period.
 
